@@ -1,0 +1,80 @@
+/* header */
+header {
+position: absolute;
+width: 360px;
+height: 54px;
+left: 0px;
+top: 0px;
+
+background: #31BBEC;
+}
+
+/* header2 */
+
+.header2 {
+position: absolute;
+width: 332px;
+height: 119px;
+left: 14px;
+top: 60px;
+
+background: rgba(149, 196, 242, 0.12);
+border-radius: 8px;
+}
+
+/* argProgLogo 1 */
+.pic1 {
+position: absolute;
+width: 103px;
+height: 31px;
+left: 5px;
+top: 12px;
+
+background: url(argProgLogo.jpg);
+}
+
+/* andromeda 1 */
+
+.pic2{
+position: absolute;
+width: 332px;
+height: 68px;
+left: 14px;
+top: 60px;
+
+background: url(andromeda.jpg);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 8px;
+}
+
+  /* Santiago Javier De Franceschi */
+
+p {
+  
+position: absolute;
+width: 149px;
+height: 10px;
+left: 11px;
+top: 144px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 10px;
+text-align: center;
+
+color: #000000;
+
+}
+
+/* Ellipse 1 */
+.profilePic {
+position: absolute;
+width: 43px;
+height: 43px;
+left: 25px;
+top: 101px;
+
+background: #C4C4C4;
+}
